@@ -1,3 +1,4 @@
+from PIL import Image
 def img_quality(source,dest):
     source="/Users/yerin/examples"
     dest="/Users/yerin/cropped/fakes000160_bigger"
